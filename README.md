@@ -5,7 +5,7 @@ A project from a computer vision course to detect smoking activity. The Dataset 
 Google Colaboratory Link : https://tiny.one/ismar-yolov3-viskom
 
 <div align="center">
-  <img src = "https://github.com/ismarapw/smoking-activity-detection-yolov3/blob/main/Evaluation/Test/SGD/val_batch0_labels.jpg" width = 600 />
+  <img src = "https://github.com/ismarapw/smoking-activity-detection-yolov3/blob/main/Evaluation/Test/SGD/val_batch0_pred.jpg" width = 600 />
 </div>
 
 
