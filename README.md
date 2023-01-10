@@ -1,1 +1,1 @@
-# smoking-activity-detection-yolov3
+# Smoking Activity Detection using YOLOv3 Algorithm
