@@ -1,6 +1,6 @@
 # Smoking Activity Detection using YOLOv3 Algorithm
 
-A project from a computer vision course to detect smoking activity. The Dataset used was collected and annotated manually. The Dataset was obtained from Unsplash, Pexels, Pixabay, and google images (with free copyright). The experiment was done using YOLOv3 Algorithm. The model obtained still needs improvement. It still needs to be improved in further experiments. 
+A project from a computer vision course to detect smoking activity. The Dataset used was collected and annotated manually. The Dataset was obtained from Unsplash, Pexels, Pixabay, and google images (with free copyright). The experiment was done using YOLOv3 Algorithm (with Darknet-53 backbone for feature extraction). The model obtained still needs improvement. It still needs to be improved in further experiments. 
 
 Special thanks to <a href = "https://github.com/ultralytics/yolov3">ultralytics</a>, who provided the YOLOv3 Code (Framework) so that the experiment can be done more effectively and efficiently. 
 
