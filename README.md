@@ -17,6 +17,7 @@ Related Works:
   <li><a href = "https://arxiv.org/abs/1804.02767">YOLOv3: An Incremental Improvement </a></li>
   <li><a href = "https://iopscience.iop.org/article/10.1088/1742-6596/2232/1/012001">A smoking behavior detection method based on the YOLOv5 network </a></li>
   <li><a href = "https://ieeexplore.ieee.org/document/9421547">Smoking target detection based on Yolo V3 </a></li>
+  <li><a href = "https://iopscience.iop.org/article/10.1088/1742-6596/2024/1/012042/pdf">Research on Smoking Detection Based on Deep Learning</a></li>
 </ul>
 
 
