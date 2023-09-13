@@ -13,7 +13,7 @@ Special thanks to <a href = "https://github.com/ultralytics/yolov3">ultralytics<
 I recommend you to clone this repo and import the notebook file into google collaboratory instead of your local machine. The depedencies follow the <a href = "https://github.com/ultralytics/yolov3">ultralytics</a> depedencies. Or you can copy this <a href = "https://tiny.one/ismar-yolov3-viskom">colaboratory link</a> to yours  
 
 # Snapshots
-![image](https://github.com/ismarapw/smoking-activity-detection/assets/76652264/fc7d58b6-8b3f-40bf-a6e8-b15ee133c82e)
+![257688958-fc7d58b6-8b3f-40bf-a6e8-b15ee133c82e](https://github.com/ismarapw/smoking-activity-detection/assets/76652264/824426d0-850e-4976-bdd1-ea25f40aa631)
 
 # Related Works:
 <ul>
